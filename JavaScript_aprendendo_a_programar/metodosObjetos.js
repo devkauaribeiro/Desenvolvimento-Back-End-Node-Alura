@@ -5,7 +5,7 @@ const pessoa = {
     Nacionalidade: 'Brasileiro'
 }
 
-for(const chave in pessoa) {
+for (const chave in pessoa) {
     console.log('Chave:', chave)
     console.log('Valor:', pessoa[chave])
 }
