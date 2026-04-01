@@ -26,7 +26,7 @@ Acompanhe abaixo o meu progresso ao longo da formação:
 <details open>
 <summary><strong>🌱 Nível Base: Fundamentos do Front-End (EM ANDAMENTO)</strong></summary>
 
-- [ ] Internet: entendendo os fundamentos da web
+- [x] Internet: entendendo os fundamentos da web
 - [ ] HTML e CSS: ambiente, estrutura e estilo
 - [ ] HTML e CSS: formulários, SEO e acessibilidade
 - [ ] HTML e CSS: responsividade em layouts
